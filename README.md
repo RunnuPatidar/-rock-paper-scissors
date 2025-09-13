@@ -1,4 +1,5 @@
-# tic-tac-toe
+# rock-paper-scissors
+
 ### 📝 Description
 
 A simple **Rock Paper Scissors game** built with **HTML, CSS, and JavaScript**, where you play against the **computer**.
