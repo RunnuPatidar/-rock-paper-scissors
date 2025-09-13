@@ -1,13 +1,12 @@
 # tic-tac-toe
- 
-**Description**
+### 📝 Description
 
-A simple **Tic Tac Toe game** built with **HTML, CSS, and JavaScript**, where **two players can play on the same screen**.
-Players take turns marking X or O on a 3×3 grid, and the game detects when someone wins or when it’s a draw.
+A simple **Rock Paper Scissors game** built with **HTML, CSS, and JavaScript**, where you play against the **computer**.
+Choose rock, paper, or scissors, and the computer will randomly choose its move — the winner is decided based on the game rules.
 
 **Features:**
 
-* Two-player gameplay on one screen
-* Win and draw detection
+* Play against computer (random choice)
+* Real-time result display (win, lose, draw)
+* Score tracking
 * Clean and responsive user interface
-* Option to restart the game
